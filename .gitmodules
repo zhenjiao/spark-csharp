@@ -1,0 +1,3 @@
+[submodule "dependencies/spark"]
+	path = dependencies/spark
+	url = https://github.com/apache/spark.git

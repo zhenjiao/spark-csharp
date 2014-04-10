@@ -1,0 +1,5 @@
+examples/CSharpSparkPi/bin/
+examples/CSharpSparkPi/obj/
+src/main/csharp/obj/
+target/
+*.suo

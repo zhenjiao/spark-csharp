@@ -36,7 +36,7 @@
       <HintPath>..\..\dependencies\ikvm-7.2.4630.5\bin\IKVM.OpenJDK.Core.dll</HintPath>
     </Reference>
     <Reference Include="spark_csharp">
-      <HintPath>..\..\dependencies\libs\spark_csharp.dll</HintPath>
+      <HintPath>..\..\target\spark_csharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

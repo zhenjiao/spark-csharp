@@ -2,7 +2,7 @@ package org.apache.spark
 
 import org.apache.spark.rdd.RDD
 import scala.reflect._
-import cli.CSharpUtilities.CSharpUtil
+import cli.CSharpSparkLib.CSharpUtil
 import scala.Function3
 import scala.collection.mutable.{ArrayBuilder, WrappedArray}
 

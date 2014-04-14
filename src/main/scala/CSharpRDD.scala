@@ -15,7 +15,7 @@ import org.apache.spark.broadcast.Broadcast
 import org.apache.spark._
 import org.apache.spark.rdd.RDD
 import org.apache.spark.util.Utils
-import cli.CSharpUtilities.CSharpUtil
+import cli.CSharpSparkLib.CSharpUtil
 
 class CSharpRDD[T: ClassTag](
     _rdd: RDD[T])
